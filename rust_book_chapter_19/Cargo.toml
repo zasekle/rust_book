@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "main_stuff",
+    "procedural_macros",
+    "procedural_trait"
+]
